@@ -48,4 +48,3 @@
 ## Education
 M.S. in Data Science, University Of Maryland Baltimore County (UMBC)  
 Expected Grad Date: Dec 2023
-
