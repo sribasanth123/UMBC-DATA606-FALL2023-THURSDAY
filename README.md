@@ -1,5 +1,5 @@
 
-![Profile Picture](/my%20passport%20size%20pic.jpg)
+![Profile Picture](/my%20passport%20size%20pic.jpg){: width="10px"}
 # SRISAILAM BASANTHPUR
 +1 302 688 0258 | SRIBASANTH123@GMAIL.COM | [Linkedin](https://www.linkedin.com/in/yourlinkedinprofile)
 4725 Belwood Grn, Halethrope, Baltimore, MD, 21227
